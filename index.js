@@ -1,3 +1,4 @@
 console.error(Atticus)
-console.log(Jem
+console.log(Jem)
+console.warn(Scout
 )
