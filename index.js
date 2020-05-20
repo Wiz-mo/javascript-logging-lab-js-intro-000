@@ -1,2 +1,2 @@
 console.error("help")
-console.log(Bomba)
+console.log("Bomba")
